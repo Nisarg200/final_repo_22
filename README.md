@@ -2,7 +2,7 @@
 *A fully responsive animated quiz built with Next.js, Tailwind CSS, and Framer Motion.*
 
 # Link
-![Website](https://final-repo-22.vercel.app/))
+Website : ![https://final-repo-22.vercel.app](https://final-repo-22.vercel.app)
 
 ![Next.js](https://img.shields.io/badge/Next.js-13+-black?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-blue?style=flat&logo=tailwindcss)
